@@ -1,2 +1,2 @@
-# Advent-of-Code-2024-Rust
+# Advent-of-Code-2025-Rust
 Questa è una repository dove sono mantenuti tutti esercizi dell'advent of code del 2024, e non solo...
